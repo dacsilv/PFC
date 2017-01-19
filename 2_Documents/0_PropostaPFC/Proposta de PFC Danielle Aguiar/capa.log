@@ -1,0 +1,318 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (MiKTeX 2.9) (preloaded format=latex 2015.12.3)  8 DEC 2015 16:54
+entering extended mode
+**capa.tex
+(capa.tex
+LaTeX2e <2015/01/01> patch level 2
+Babel <3.9m> and hyphenation patterns for 69 languages loaded.
+
+! LaTeX Error: Environment titlepage undefined.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.13 \begin{titlepage}
+                      
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.15 \begin{center}
+                   
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+Overfull \hbox (20.0pt too wide) in paragraph at lines 15--15
+[][] 
+ []
+
+! Undefined control sequence.
+l.18 \Large
+           
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+Overfull \hbox (66.60524pt too wide) in paragraph at lines 19--19
+ []\OT1/cmr/m/sc/10 Universidade 
+ []
+
+
+Overfull \hbox (22.72485pt too wide) in paragraph at lines 19--19
+ \OT1/cmr/m/sc/10 Fed- 
+ []
+
+
+Overfull \hbox (22.86656pt too wide) in paragraph at lines 19--19
+ \OT1/cmr/m/sc/10 eral 
+ []
+
+
+Overfull \hbox (11.82217pt too wide) in paragraph at lines 19--19
+ \OT1/cmr/m/sc/10 de 
+ []
+
+
+Overfull \hbox (16.68872pt too wide) in paragraph at lines 19--19
+ \OT1/cmr/m/sc/10 Mi- 
+ []
+
+
+Overfull \hbox (16.84439pt too wide) in paragraph at lines 19--19
+ \OT1/cmr/m/sc/10 nas 
+ []
+
+
+Overfull \hbox (33.84703pt too wide) in paragraph at lines 19--19
+ \OT1/cmr/m/sc/10 Gerais 
+ []
+
+
+Overfull \hbox (47.46082pt too wide) in paragraph at lines 20--20
+ [][]\OT1/cmr/m/sc/10 Proposta 
+ []
+
+
+Overfull \hbox (11.82217pt too wide) in paragraph at lines 20--20
+ \OT1/cmr/m/sc/10 de 
+ []
+
+
+Overfull \hbox (22.11089pt too wide) in paragraph at lines 20--20
+ \OT1/cmr/m/sc/10 PFC 
+ []
+
+
+Overfull \hbox (68.68016pt too wide) in paragraph at lines 25--25
+ [][]\OT1/cmr/m/sc/10 Agrupamento 
+ []
+
+
+Overfull \hbox (15.77208pt too wide) in paragraph at lines 25--25
+ \OT1/cmr/m/sc/10 Es- 
+ []
+
+
+Overfull \hbox (20.8443pt too wide) in paragraph at lines 25--25
+ \OT1/cmr/m/sc/10 pec- 
+ []
+
+
+Overfull \hbox (23.19989pt too wide) in paragraph at lines 25--25
+ \OT1/cmr/m/sc/10 tral 
+ []
+
+
+Overfull \hbox (23.19989pt too wide) in paragraph at lines 25--25
+ \OT1/cmr/m/sc/10 para 
+ []
+
+
+Overfull \hbox (29.14981pt too wide) in paragraph at lines 25--25
+ \OT1/cmr/m/sc/10 Prob- 
+ []
+
+
+Overfull \hbox (14.48878pt too wide) in paragraph at lines 25--25
+ \OT1/cmr/m/sc/10 le- 
+ []
+
+
+Overfull \hbox (18.1777pt too wide) in paragraph at lines 25--25
+ \OT1/cmr/m/sc/10 mas 
+ []
+
+
+Overfull \hbox (11.82217pt too wide) in paragraph at lines 25--25
+ \OT1/cmr/m/sc/10 de 
+ []
+
+
+Overfull \hbox (43.20258pt too wide) in paragraph at lines 25--25
+ \OT1/cmr/m/sc/10 Grandes 
+ []
+
+
+Overfull \hbox (28.57483pt too wide) in paragraph at lines 25--25
+ \OT1/cmr/m/sc/10 Bases 
+ []
+
+
+Overfull \hbox (11.82217pt too wide) in paragraph at lines 25--25
+ \OT1/cmr/m/sc/10 de 
+ []
+
+
+Overfull \hbox (17.91098pt too wide) in paragraph at lines 25--25
+ \OT1/cmr/m/sc/10 Da- 
+ []
+
+
+Overfull \hbox (17.17772pt too wide) in paragraph at lines 25--25
+ \OT1/cmr/m/sc/10 dos 
+ []
+
+
+! LaTeX Error: The font size command \normalsize is not defined:
+               there is probably something wrong with the class file.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.25 ...xtsc{Engenharia de Controle e Automação}}}
+                                                  \\
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+Missing character: There is no ç in font cmcsc10!
+Missing character: There is no ã in font cmcsc10!
+
+Overfull \hbox (59.11638pt too wide) in paragraph at lines 25--25
+ []\OT1/cmr/m/sc/10 Engenharia 
+ []
+
+
+Overfull \hbox (11.82217pt too wide) in paragraph at lines 25--25
+ \OT1/cmr/m/sc/10 de 
+ []
+
+
+Overfull \hbox (24.12762pt too wide) in paragraph at lines 25--25
+ \OT1/cmr/m/sc/10 Con- 
+ []
+
+
+Overfull \hbox (9.68881pt too wide) in paragraph at lines 25--25
+ \OT1/cmr/m/sc/10 t- 
+ []
+
+
+Overfull \hbox (22.86655pt too wide) in paragraph at lines 25--25
+ \OT1/cmr/m/sc/10 role 
+ []
+
+
+Overfull \hbox (5.57774pt too wide) in paragraph at lines 25--25
+ \OT1/cmr/m/sc/10 e 
+ []
+
+
+Overfull \hbox (17.7582pt too wide) in paragraph at lines 25--25
+ \OT1/cmr/m/sc/10 Au- 
+ []
+
+
+Overfull \hbox (31.99985pt too wide) in paragraph at lines 25--25
+ \OT1/cmr/m/sc/10 tomao 
+ []
+
+
+Overfull \hbox (34.86646pt too wide) in paragraph at lines 28--28
+ [][]\OT1/cmr/m/sc/10 Aluna: 
+ []
+
+
+Overfull \hbox (44.71085pt too wide) in paragraph at lines 28--28
+ \OT1/cmr/m/sc/10 Danielle 
+ []
+
+
+Overfull \hbox (35.56924pt too wide) in paragraph at lines 28--28
+ \OT1/cmr/m/sc/10 Aguiar 
+ []
+
+
+Overfull \hbox (46.90532pt too wide) in paragraph at lines 28--28
+ \OT1/cmr/m/sc/10 Carneiro 
+ []
+
+
+Overfull \hbox (24.7554pt too wide) in paragraph at lines 28--28
+ \OT1/cmr/m/sc/10 Silva 
+ []
+
+Missing character: There is no ô in font cmcsc10!
+Missing character: There is no á in font cmcsc10!
+
+Overfull \hbox (62.39409pt too wide) in paragraph at lines 30--30
+ [][]\OT1/cmr/m/sc/10 Orientador: 
+ []
+
+
+Overfull \hbox (28.12202pt too wide) in paragraph at lines 30--30
+ \OT1/cmr/m/sc/10 Prof. 
+ []
+
+
+Overfull \hbox (35.69424pt too wide) in paragraph at lines 30--30
+ \OT1/cmr/m/sc/10 Antnio 
+ []
+
+
+Overfull \hbox (11.82217pt too wide) in paragraph at lines 30--30
+ \OT1/cmr/m/sc/10 de 
+ []
+
+
+Overfull \hbox (25.92764pt too wide) in paragraph at lines 30--30
+ \OT1/cmr/m/sc/10 Pdua 
+ []
+
+
+Overfull \hbox (32.18593pt too wide) in paragraph at lines 30--30
+ \OT1/cmr/m/sc/10 Braga 
+ []
+
+! Undefined control sequence.
+<recently read> \today 
+                       
+l.32 \textsc{\today}
+                    \\ %%Date - better you write it yourself.
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+! LaTeX Error: \begin{document} ended by \end{titlepage}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.37 \end{titlepage}
+                    
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+)
+! Emergency stop.
+<*> capa.tex
+            
+*** (job aborted, no legal \end found)
+
+ 
+Here is how much of TeX's memory you used:
+ 11 strings out of 493674
+ 119 string characters out of 3143167
+ 53452 words of memory out of 3000000
+ 3458 multiletter control sequences out of 15000+200000
+ 3941 words of font info for 15 fonts, out of 3000000 for 9000
+ 1025 hyphenation exceptions out of 8191
+ 13i,1n,10p,102b,134s stack positions out of 5000i,500n,10000p,200000b,50000s
+No pages of output.

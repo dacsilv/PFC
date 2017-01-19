@@ -1,0 +1,5 @@
+ip: 150.164.32.60
+user: danielleaguiar
+senha: dani1908
+
+pscp -r danielleaguiar@150.164.32.60:/home/danielleaguiar/BirchTests C:\Users\Danielle\Documents\BIRCH\PROGRAMAS\pscp

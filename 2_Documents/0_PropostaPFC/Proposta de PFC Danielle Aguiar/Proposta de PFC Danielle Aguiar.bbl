@@ -1,0 +1,33 @@
+\newcommand{\etalchar}[1]{$^{#1}$}
+\begin{thebibliography}{NJW{\etalchar{+}}02}
+
+\bibitem[NG06]{nadler2006fundamental}
+Boaz Nadler and Meirav Galun.
+\newblock Fundamental limitations of spectral clustering.
+\newblock In {\em Advances in Neural Information Processing Systems}, pages
+  1017--1024, 2006.
+
+\bibitem[NJW{\etalchar{+}}02]{ng2002spectral}
+Andrew~Y Ng, Michael~I Jordan, Yair Weiss, et~al.
+\newblock On spectral clustering: Analysis and an algorithm.
+\newblock {\em Advances in neural information processing systems}, 2:849--856,
+  2002.
+
+\bibitem[SLH90]{scott1990feature}
+Guy~L Scott and Hugh~Christopher Longuet-Higgins.
+\newblock Feature grouping by'relocalisation'of eigenvectors of the proximity
+  matrix.
+\newblock In {\em BMVC}, pages 1--6. Citeseer, 1990.
+
+\bibitem[VM03]{verma2003comparison}
+Deepak Verma and Marina Meila.
+\newblock A comparison of spectral clustering algorithms.
+\newblock {\em University of Washington Tech Rep UWCSE030501}, 1:1--18, 2003.
+
+\bibitem[Wei99]{artigo1}
+Yair Weiss.
+\newblock Segmentation using eigenvectors: A unifying view.
+\newblock {\em International Conference on Computer Vision}, pages 975--982,
+  1999.
+
+\end{thebibliography}

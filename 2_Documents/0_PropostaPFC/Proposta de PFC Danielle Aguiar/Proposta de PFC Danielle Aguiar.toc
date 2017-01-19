@@ -1,0 +1,13 @@
+\select@language {brazil}
+\contentsline {chapter}{List of Figures}{2}
+\contentsline {section}{\numberline {1}Descri\c c\~ao do Problema}{1}
+\contentsline {subsection}{\numberline {1.1}Motiva\c c\~ao}{1}
+\contentsline {subsection}{\numberline {1.2}Aplica\c c\~oes do m\'etodo}{1}
+\contentsline {subsection}{\numberline {1.3}O projeto}{1}
+\contentsline {section}{\numberline {2}Objetivos do Projeto}{1}
+\contentsline {section}{\numberline {3}Etapas}{2}
+\contentsline {section}{\numberline {4}Cronograma}{2}
+\contentsline {section}{\numberline {5}Recursos Necess\'arios}{2}
+\contentsline {section}{\numberline {6}Assinaturas}{3}
+\vspace *{\baselineskip }
+\contentsline {chapter}{Bibliography}{3}
